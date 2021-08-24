@@ -539,6 +539,10 @@ button:focus {
 	
 }
 
+.mu-social-media a:hover{
+  	color: white;
+}
+
 .mu-resume-btn {
 	margin-top: 30px;
 	display: inline-block;
