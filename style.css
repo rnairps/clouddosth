@@ -540,7 +540,7 @@ button:focus {
 }
 
 .mu-social-media a:hover{
-  	color: white;
+  	color: white !important;
 }
 
 .mu-resume-btn {
